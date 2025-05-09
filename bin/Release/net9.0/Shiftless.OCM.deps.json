@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Shiftless.OCM/1.0.0": {
+        "dependencies": {
+          "Shiftless.SexyAudioFormat": "1.0.0"
+        },
+        "runtime": {
+          "Shiftless.OCM.dll": {}
+        }
+      },
+      "Shiftless.Common/1.0.0": {
+        "runtime": {
+          "Shiftless.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Shiftless.SexyAudioFormat/1.0.0": {
+        "dependencies": {
+          "Shiftless.Common": "1.0.0"
+        },
+        "runtime": {
+          "Shiftless.SexyAudioFormat.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shiftless.OCM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shiftless.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shiftless.SexyAudioFormat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
