@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shiftless.Clockwork.Assets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dade9dfd9756f58608e05bbed463caf48419146")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ad35d8cfefe44c1ff2765fc0e60856a73ad363")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shiftless.Clockwork.Assets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shiftless.Clockwork.Assets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
