@@ -1,0 +1,137 @@
+﻿#############################
+# Build results
+#############################
+bin/
+obj/
+[Ll]og/
+*.log
+
+#############################
+# VS & IDE specific files
+#############################
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#############################
+# Dotnet
+#############################
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.dbmdl
+*.db
+*.bak
+*.swp
+*.scc
+*.vspscc
+*.vssscc
+*.nupkg
+*.snupkg
+*.deps.json
+*.runtimeconfig.json
+
+#############################
+# NuGet
+#############################
+*.nuspec
+packages/
+**/packages/*
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+#############################
+# MSBuild
+#############################
+*.tlog
+*.targets
+*.props
+
+#############################
+# Other tooling
+#############################
+*.DotSettings.user
+*.resharper
+_ReSharper*/
+*.dotCover
+.idea/
+*.iml
+
+#############################
+# Test results
+#############################
+TestResults/
+*.coverage
+*.coveragexml
+*.testlog
+*.trx
+
+#############################
+# Azure / Publish / ClickOnce
+#############################
+.publish/
+publish/
+AppPackages/
+*.appx
+*.appxbundle
+*.appxupload
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+#############################
+# Backup & Migration
+#############################
+_Backup*/
+MigrationBackup/
+UpgradeLog*.*
+*.rptproj.bak
+
+#############################
+# JetBrains Rider
+#############################
+.idea/
+*.sln.iml
+
+#############################
+# Temporary files
+#############################
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.~*
+
+#############################
+# Local History & Misc
+#############################
+.history/
+.localhistory/
+*.db
+*.pidb
+*.sdf
+*.opensdf
+*.VC.db
+*.opendb
+
+#############################
+# Node / Web assets (if using frontend too)
+#############################
+node_modules/
+bower_components/
+dist/
+wwwroot/
+
+#############################
+# Optional: keep clean project directory
+#############################
+.DS_Store
+Thumbs.db
